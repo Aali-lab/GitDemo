@@ -12,6 +12,8 @@ public void randomMethod() {
 	
 	System.out.println("Commit comments1");
 	System.out.println("Commit comments2");
+	System.out.println("Commit comments3");
+	System.out.println("Commit comments4");
 	
 	
 }}
